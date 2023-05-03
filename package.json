@@ -1,0 +1,24 @@
+{
+  "name": "construction-company",
+  "version": "1.0.0",
+  "description": "New website project for a construction company",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukusiki69/Construction-Company.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kukusiki69/Construction-Company/issues"
+  },
+  "homepage": "https://github.com/kukusiki69/Construction-Company#readme",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
